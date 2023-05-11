@@ -3,4 +3,6 @@
 	import Navbar from './assets/Navbar.svelte';
 </script>
 
-<Navbar />
+<div class="container">
+	<Navbar />
+</div>
